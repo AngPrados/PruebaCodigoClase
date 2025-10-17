@@ -46,6 +46,8 @@ public class Ejercicio1 {
         System.out.println("Sobresalientes: " + sobresalientes);
         
         sc.close();
+        
+        System.out.println();
     }
 }
 
