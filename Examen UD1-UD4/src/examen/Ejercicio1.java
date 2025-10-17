@@ -47,7 +47,7 @@ public class Ejercicio1 {
         
         sc.close();
         
-        System.out.println("*******************************");
+        System.out.println("******************************iiiiiiiiiiii*");
     }
 }
 
